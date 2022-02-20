@@ -8,3 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 -   Semantic HTML5 markup
 -   CSS
+
+### Deploy of the webpage
+
+https://wisdum-dev.github.io/qr-code-component-main/
